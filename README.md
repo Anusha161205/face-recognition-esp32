@@ -83,7 +83,8 @@ A **real-time AI-based attendance system** that:
 * Accurate attendance recording
 * Reduced manual effort
 
----
+---<img width="3200" height="1800" alt="output-facedetection" src="https://github.com/user-attachments/assets/8b65fc09-d73d-4007-a027-aa07f129f48b" />
+
 
 ## 🚧 Future Enhancements
 
